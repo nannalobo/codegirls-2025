@@ -30,7 +30,7 @@ A AWS possui uma rede global de data centers, chamados de "Regions" e "Availabil
 
 Posso ter 1 Region com no mínimo 2 Availabilty Zones, pois caso haja falha em uma, tem outra. 
 
-A AWS abrange 105 zonas de disponibilidade em 33 regiões geográficas por todo o mundo, com planos para mais 12 zonas de disponiblidade e outras 4 regiões da AWS na Alemanha, Malásia, Nova Zelândia e Tailândia. 
+A AWS abrange 105 zonas de disponibilidade em 33 regiões geográficas por todo o mundo, com planos para mais 12 zonas de disponibilidade e outras 4 regiões da AWS na Alemanha, Malásia, Nova Zelândia e Tailândia. 
 
 Mapa: https://aws.amazon.com/pt/about-aws/global-infrastructure 
 
